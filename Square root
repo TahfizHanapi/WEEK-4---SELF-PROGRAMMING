@@ -1,0 +1,16 @@
+package selfProgramming;
+
+public class Squareroot {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int a = 30;
+		int b = 4;
+		int c = 10;
+		
+		System.out.print((-b + Math.sqrt( (b * b - 4 * a * c))) / ( 2 * a ) );
+
+	}
+
+}
