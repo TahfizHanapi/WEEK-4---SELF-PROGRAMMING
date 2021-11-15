@@ -1,0 +1,17 @@
+package selfProgramming;
+
+public class Noteslide7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int dollars = 20;
+		double money = dollars;
+		
+		System.out.println(money); //int is a real nnumber
+		System.out.print(dollars);//double money become 20.0
+		
+
+	}
+
+}
